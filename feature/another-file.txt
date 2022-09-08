@@ -1,1 +1,3 @@
 Another file created in the feature folder of feature-a branch
+
+This file was modified locally
